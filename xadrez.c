@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Estacio
 int main() {
     // qtd passos cavalo
     int passosBaixo = 2; // cavalo desce 2 casas
